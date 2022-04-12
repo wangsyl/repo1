@@ -1,3 +1,9 @@
 # repo1
+<<<<<<< HEAD
 
-modify by b1 111
+dd
+dify by b1 111
+=======
+111
+modify by b2
+>>>>>> b2
